@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning python for machine learning and data analytics.<br><br>💬 Ask me about anything as your wish.<br><br>📫 How to reach me through my linkedin profile<br><br>📄 Know about my experiences fresher<br><br>⚡ Fun fact I am Developer
+🌱 I’m currently learning python & SQL for machine learning and data analytics.<br><br>💬 Ask me about anything as your wish.<br><br>📫 How to reach me through my linkedin profile<br><br>📄 Know about my experiences fresher<br><br>⚡ Fun fact I am Developer
 
 
 ## 🌐 Socials:
